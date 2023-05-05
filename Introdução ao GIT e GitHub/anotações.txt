@@ -1,0 +1,1 @@
+Git Bash é usado como terminal para otimizar o uso do Git.
